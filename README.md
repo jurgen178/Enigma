@@ -58,7 +58,7 @@ The script includes predefined configurations based on historical usage:
 
 ```powershell
 # Standard Wehrmacht configuration
-$Standard = @{
+[hashtable]$Standard = @{
     RotorConfiguration = @(1, 2, 3) 
     RotorPositions = "AAA"
     RingSettings = "AAA"
@@ -66,7 +66,7 @@ $Standard = @{
 }
 
 # Kriegsmarine U-boat configuration (1943)
-$Marine1943 = @{
+[hashtable]$Marine1943 = @{
     RotorConfiguration = @(5, 4, 3)        # Rotors V-IV-III
     RotorPositions = "BLA"                 # U-boat call sign
     RingSettings = "AJD"                   # Ring settings
@@ -116,7 +116,7 @@ YRUHQSLDPXNGOKMIEBFZCWVJAT
 ```powershell
 
 # Standard
-$Standard = @{
+[hashtable]$Standard = @{
     RotorConfiguration = @(1, 2, 3) 
     RotorPositions = "AAA"
     RingSettings = "AAA"
@@ -174,7 +174,7 @@ This project is open source and available under the MIT License.
 - [Enigma Machine - Wikipedia](https://en.wikipedia.org/wiki/Enigma_machine)
 - [Technical Details of the Enigma Machine](https://www.cryptomuseum.com/crypto/enigma/)
 - [Breaking the Enigma Code](https://www.bletchleypark.org.uk/our-story/enigma)
-
+- [Enigma simulator](https://cryptii.com/pipes/enigma-machine)
 ---
 
 *"Sometimes you don't need a fancy UI, the cloud, or AI. Sometimes all it takes is an eighty-year-old machine, a bit of text, and a touch of madness."*
