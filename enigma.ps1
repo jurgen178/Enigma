@@ -412,7 +412,7 @@ function Invoke-EnigmaEncryption {
     RotorConfiguration = @(1, 2, 3)  # Rotors I-II-III (common early war setup)
     RotorPositions = "AAA"           # All rotors start at position A
     RingSettings = "AAA"             # No ring offset applied
-    PlugboardConnections = "AB CD EF GH IJ KL MN OP QR ST"  # 10 pairs for extra security
+    PlugboardConnections = ""        # No pairs used
 }
 
 # Kriegsmarine (German Navy) complex configuration from 1943

@@ -175,6 +175,7 @@ This project is open source and available under the MIT License.
 - [Technical Details of the Enigma Machine](https://www.cryptomuseum.com/crypto/enigma/)
 - [Breaking the Enigma Code](https://www.bletchleypark.org.uk/our-story/enigma)
 - [Enigma simulator](https://cryptii.com/pipes/enigma-machine)
+- [Enigma challenge](https://bitfabrik.io/blog/index.php?id_post=247)
 ---
 
 *"Sometimes you don't need a fancy UI, the cloud, or AI. Sometimes all it takes is an eighty-year-old machine, a bit of text, and a touch of madness."*
