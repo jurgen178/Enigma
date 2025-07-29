@@ -156,15 +156,6 @@ The simulator has been tested against known historical Enigma configurations and
 
 The Enigma machine was a series of electro-mechanical rotor cipher machines developed and used in the early-to-mid 20th century to protect commercial, diplomatic, and military communication. The German military made extensive use of Enigma during World War II, and the breaking of Enigma codes was a significant factor in the Allied victory.
 
-## 🤝 Contributing
-
-Contributions are welcome! Whether it's:
-- Adding support for other Enigma variants (M3, M4)
-- Implementing additional reflectors
-- Adding more historical configurations
-- Improving documentation
-- Bug fixes and optimizations
-
 ## 📄 License
 
 This project is open source and available under the MIT License.
