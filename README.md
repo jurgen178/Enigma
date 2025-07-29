@@ -154,7 +154,7 @@ The simulator has been tested against known historical Enigma configurations and
 
 ## 📚 Historical Context
 
-The Enigma machine was a series of electro-mechanical rotor cipher machines developed and used in the early-to-mid 20th century to protect commercial, diplomatic, and military communication. The German military made extensive use of Enigma during World War II, and the breaking of Enigma codes was a significant factor in the Allied victory.
+The Enigma machine was a series of electro-mechanical rotor cipher machines developed and used in the early-to-mid 20th century to protect commercial, diplomatic, and military communication. The German military made extensive use of Enigma during World War II.
 
 ## 📄 License
 
