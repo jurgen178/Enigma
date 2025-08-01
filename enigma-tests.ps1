@@ -105,11 +105,11 @@ Test-EnigmaConfiguration -TestName "Test 3: Wehrmacht 1940" -OriginalText "ATTAC
 } -Description "Historic Wehrmacht configuration from 1940"
 
 # Test 4: U-Boat configuration (complex)
-Test-EnigmaConfiguration -TestName "Test 4: U-Boat Marine" -OriginalText "UBOOTWAFFE" -ExpectedEncoded "PVUTZ UXEOF" -Configuration @{
-    RotorConfiguration = @(5, 4, 3)  # V-IV-III
+Test-EnigmaConfiguration -TestName "Test 4: U-Boat Marine" -OriginalText "UBOOTWAFFE" -ExpectedEncoded "QYXFY GNUOD" -Configuration @{
+    RotorConfiguration = @(5, 2, 4)  # V-II-IV
     RotorPositions = "BLA"
     RingSettings = "AJD"
-    PlugboardConnections = "AB CD EF GH IJ KL MN OP QR ST"
+    PlugboardConnections = "AZ BF EQ GT HJ KW MS OY PX UV"
 } -Description "Kriegsmarine U-Boat configuration 1943"
 
 # Test 5: Known cryptii.com test case

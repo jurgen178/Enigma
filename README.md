@@ -67,10 +67,10 @@ The script includes predefined configurations based on historical usage:
 
 # Kriegsmarine U-boat configuration (1943)
 [hashtable]$Marine1943 = @{
-    RotorConfiguration = @(5, 4, 3)        # Rotors V-IV-III
+    RotorConfiguration = @(5, 2, 4)        # Rotors V-IV-III
     RotorPositions = "BLA"                 # U-boat call sign
     RingSettings = "AJD"                   # Ring settings
-    PlugboardConnections = "AB CD EF GH IJ KL MN OP QR ST"
+    PlugboardConnections = "AZ BF EQ GT HJ KW MS OY PX UV"
 }
 ```
 

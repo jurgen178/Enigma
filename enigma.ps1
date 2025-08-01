@@ -418,10 +418,10 @@ function Invoke-EnigmaEncryption {
 # Kriegsmarine (German Navy) complex configuration from 1943
 # U-boats used more sophisticated settings for critical communications
 [hashtable]$Marine1943 = @{
-    RotorConfiguration = @(5, 4, 3)    # Rotors V-IV-III (late war, more secure)
+    RotorConfiguration = @(5, 2, 4)    # Rotors V-IV-III (late war, more secure)
     RotorPositions = "BLA"             # Typical U-boat call sign format
     RingSettings = "AJD"               # Complex ring settings to confuse cryptanalysts
-    PlugboardConnections = "AB CD EF GH IJ KL MN OP QR ST"  # Maximum plugboard complexity
+    PlugboardConnections = "AZ BF EQ GT HJ KW MS OY PX UV"  # Maximum plugboard complexity
 }
 
 # Test configuration for development and debugging
